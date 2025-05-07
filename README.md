@@ -1,7 +1,5 @@
 ﻿# 🧙 Super Adventure – A C# WinForms RPG
-
-This is a simple Windows Forms RPG game built in C#, based on Scott Lilly’s [Learn C# by Building a Simple RPG](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/) tutorial.
-
+ 
 ---
 
 ## ▶️ How to Play
