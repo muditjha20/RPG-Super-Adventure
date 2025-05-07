@@ -33,7 +33,7 @@ If you want to explore or modify the source code:
 
 ## 🧰 Tech Stack
 
-- C# (.NET 6)
+- C# (.NET)
 - Windows Forms (WinForms)
 - Object-Oriented Programming
 
