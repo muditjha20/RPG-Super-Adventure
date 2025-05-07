@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Allow the game build folder to be tracked
+!Super Adventure (Play)/
+!Super Adventure (Play)/**
+
