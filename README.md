@@ -1,6 +1,4 @@
 ﻿# 🧙 Super Adventure – A C# WinForms RPG
- 
----
 
 ## ▶️ How to Play
 
