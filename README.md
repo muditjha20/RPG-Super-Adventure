@@ -35,6 +35,12 @@ If you want to explore or modify the source code:
 
 ---
 
+## 🎥 Demo
+
+[![Watch the demo](https://img.youtube.com/vi/g0NwnHAJI3c/hqdefault.jpg)](https://youtu.be/g0NwnHAJI3c)
+
+---
+
 ## 📜 Credits
 
 Built by following Scott Lilly’s excellent tutorial:  
